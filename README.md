@@ -4,7 +4,7 @@
 
 <br>
   <p align="center" style="margin: 5px;">
-    <img alt="print1" src="./src/assets/print1.png" height="600px">    
+    <img alt="print" src="./src/assets/print.png" height="600px">    
   </p>
 
 <br>
